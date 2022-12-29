@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @medixiena
+- 👀 I’m interested in data science in medical and health related research
+- 🌱 I’m currently learning R for research
+- 💞️ I’m looking to collaborate on research projects
